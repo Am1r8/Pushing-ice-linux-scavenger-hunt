@@ -382,4 +382,3 @@ and you'll get an interactive programming environment. You can use `vim` or a
 text editor to write your python code, then execute it:
 
     python my_code.py
-
